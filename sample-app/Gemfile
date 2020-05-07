@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+ruby "2.5.1"
+
+gem "cucumber"
+gem "rspec"
+
+gem "selenium-webdriver"
+gem "gherkin"
+gem "dotenv-rails"
+gem "byebug", platforms: [:mri, :mingw, :x64_mingw]
